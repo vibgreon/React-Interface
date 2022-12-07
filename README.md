@@ -13,8 +13,6 @@ npx create-react-app appname
 
 ## Modifying the installed folder
 - **customizing the install** by removing files which will not be used
-- mine after clean-up:
-![file structure](./after%20customizing%20installation.png)
 
 ## Importing Expernal packages
 ### React Icons
